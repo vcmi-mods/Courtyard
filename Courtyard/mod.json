@@ -140,7 +140,7 @@
 		"translations" : [
 			"translation/courtyard/polish.json"
 		]
-	,
+	},
 	"russian" : {
 		"name" : "Двор",
 		"description" : "Hof Stadt",

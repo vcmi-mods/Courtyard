@@ -25,6 +25,7 @@
 
 		{ "frame" : 16, "file" : "blacksmith" },
 		
+		{ "frame" : 17, "file" : "spec3" },
 		{ "frame" : 21, "file" : "spec1" },
 		{ "frame" : 22, "file" : "spec2" },
 		{ "frame" : 23, "file" : "spec3" },

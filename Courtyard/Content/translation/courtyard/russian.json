@@ -47,7 +47,7 @@
     "building.courtyard.courtyard.dwellingUpLvl7.name": "ул. Жуткая пещера",
     "building.courtyard.courtyard.fort.description": "Форт защищает ваш город оборонительными стенами.",
     "building.courtyard.courtyard.fort.name": "Форт",
-    "building.courtyard.courtyard.grail.description": "Наличие Башни из слоновой кости увеличивает еженедельное производство существ на 50% и дает вашему королевству дополнительно 5000 золотых каждый день.",
+    "building.courtyard.courtyard.grail.description": "Наличие Башни из слоновой кости увеличивает еженедельное производство существ на 50%, дает вашему королевству дополнительно 5000 золотых каждый день и и увеличивает силу заклинаний любой Магии на 50%",
     "building.courtyard.courtyard.grail.name": "Башня из слоновой кости",
     "building.courtyard.courtyard.horde1.description": "Сад статуй увеличивает производство мраморных амуров на 6 в неделю.",
     "building.courtyard.courtyard.horde1.name": "Сад статуй",
@@ -299,3 +299,4 @@
     "spell.courtyard.weaponPoisonPotion.description.none": "{Флакон с ядом}\r\n\r\nДает отряду шанс отравить атакуемого врага (10%)..",
     "spell.courtyard.weaponPoisonPotion.name": "Флакон с ядом"
 }
+

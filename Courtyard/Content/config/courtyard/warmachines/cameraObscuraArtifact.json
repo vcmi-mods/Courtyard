@@ -1,9 +1,9 @@
 {
-	"cameraObscuraArtifact":
+	"cameraObscura":
         {
 	"type" : ["HERO"],
 	"warMachine":"cameraObscuraCreature",
-        "class": "MAJOR",
+        "class": "SPECIAL",
         "value": 3000,
         "slot":"MACH1",
         "text":

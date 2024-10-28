@@ -17,6 +17,7 @@
 					},
 					"description": "The Blaksmith provides your armies with Potion Cart.",
 					"id": 16,
+					"warMachine": "potionCart",
 					"name": "Blacksmith"
 				},
 				"capitol": {
@@ -489,6 +490,7 @@
 					},
 					"description": "With the Marketplace, you can buy and sell resources (exchange rates increase with each Marketplace you own).",
 					"id": 14,
+					"marketModes" : ["resource-resource", "resource-player"],
 					"name": "Marketplace"
 				},
 				"resourceSilo": {
@@ -516,7 +518,7 @@
 						"ore": 10,
 						"wood": 10
 					},
-					"type": "artifactMerchant",
+					"marketModes" : ["resource-artifact", "artifact-resource"],
 					"requires": [
 						"marketplace"
 					]
@@ -531,11 +533,18 @@
 					"requires": [
 						"mageGuild1"
 					],
-					"onVisitBonuses": [
+					"configuration" : {
+						"visitMode" : "hero",
+						"rewards" : [
 						{
-							"type": "TOWN_MAGIC_WELL"
-						}
-					]
+							"limiter" : {
+								"noneOf" : [ { "manaPercentage" : 100 } ]
+							},
+							"bonuses" : [ { "type" : "NONE", "duration" : "ONE_DAY"} ],
+							"message" : "{Magic Fountain}\r\n\r\nA drink from the fountain has restored your spell points to maximum.",
+							"manaPercentage" : 100
+						}]
+					}
 				},
 				"special3": {
 					"cost": {
@@ -870,7 +879,7 @@
 					}
 				}
 			},
-			"musicTheme": "music/factions/courtyard/CourtTown",
+			"musicTheme": [ "music/factions/courtyard/CourtTown" ],
 			"names": [
 				"Verdina Smaragdina",
 				"Burg Brennen",
@@ -1323,8 +1332,7 @@
 				}
 			},
 			"tavernVideo": "tvrncrt.BIK",
-			"townBackground": "courtyard/town/background",
-			"warMachine": "potionCartCreature"
+			"townBackground": "courtyard/town/background"
 		}
 	}
 }

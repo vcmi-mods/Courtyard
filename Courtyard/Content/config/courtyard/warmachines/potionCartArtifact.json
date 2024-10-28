@@ -1,5 +1,5 @@
 {
-	"potionCartArtifact":
+	"potionCart":
         {
 	"type" : ["HERO"],
 	"warMachine":"potionCartCreature",

@@ -43,13 +43,13 @@
 			{
 				"type" : "SPELLCASTER",
 				"subtype": "spell.ageCamera",
-				"addInfo": 30
+				"addInfo": 100
 			},	
 			"summonCasting" : 
 			{
 				"type" : "SPELLCASTER",
 				"subtype": "spell.summonApparition",
-				"addInfo": 0
+				"addInfo": 100
 			},			
 			"casts" : 
 			{
@@ -58,8 +58,7 @@
 			},						
 		      "noRetaliation" :
 			{
-				"type" : "NO_RETALIATION",
-				 "val" : 0
+				"type" : "NO_RETALIATION"
 			},
 			"warmachine" :
 			{

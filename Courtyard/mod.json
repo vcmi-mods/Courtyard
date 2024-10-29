@@ -6,10 +6,11 @@
 	"contact" : "NONE",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.20",
+	"version" : "1.21",
 	
 	"changelog" :
     {
+		"1.21"   : [ "Czech translation by George King" ],
 		"1.20"   : [ "Update to vcmi-1.6 format" ],
 		"1.16"   : [ "Updated russian translation" ],
 		"1.15"   : [ "Added effects to buildings that do not currently have effects implemented. Grail included (by Dark Imagine)" ],
@@ -151,6 +152,13 @@
 		"description" : "Новый город алхимиков и аристократов - Двор",
 		"translations" : [
 			"translation/courtyard/russian.json"
+		]
+	},
+	"czech" : {
+		"name" : "Nádvoří",
+		"description" : "Nové město alchymistů a aristokratů – Nádvoří",
+		"translations" : [
+			"translation/courtyard/czech.json"
 		]
 	}
 }

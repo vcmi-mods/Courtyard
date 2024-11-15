@@ -8,11 +8,11 @@
 	},
 
 	"homunculus" : {
-		"description" : "{green|Homunculus}\r\n\r\nHumunculi are more like animals than people. They are produced in a complex alchemical reaction and are small, disproportionate, yet strong caricatures ot he proper human beign. They are usually tasked with works that need considerable strength, human-level agility and intelligence of a dog. Valuable asset on the battlefield since they regenerate wounds at impressive rate.\r\n\r\n{gold|Special Ability : Regeneration. Increased Spell Damage}\r\nHumunculus Regeneration enables the top creature of the stack to regain 7 health each combat round. The presence of Gilded Homunculi in hero army stra"
+		"description" : "{green|Homunculus}\r\n\r\nHomunculi are more like animals than people. They are produced in a complex alchemical reaction and are small, disproportionate, yet strong caricatures of the proper human beings. They are usually tasked with works that need considerable strength, human-level agility and intelligence of a dog. Valuable asset on the battlefield since they regenerate wounds at impressive rate.\r\n\r\n{gold|Special Ability : Regeneration. Increased Spell Damage}\r\nHomunculus Regeneration enables the top creature of the stack to regain 7 health each combat round. The presence of Gilded Homunculi in hero army stra"
 	},
 
 	"gildedHomunculus" : {
-		"description" : "{green|Gilded Homunculus}\r\n\r\nHumunculi are more like animals than people. They are produced in a complex alchemical reaction and are small, disproportionate, yet strong caricatures ot he proper human beign. They are usually tasked with works that need considerable strength, human-level agility and intelligence of a dog. Valuable asset on the battlefield since they not only regenerate wounds at impressive rate, the presence of Gilded Homunculi slightly amplifies power of damaging spells.\r\n\r\n{gold|Special Ability : Regeneration. Damage spells power increasing}\r\nHumunculus Regeneration enables the top creature of the stack to regain 10 health each combat round. Additionally, the presence in the hero's army strengthens the power of damaging spells by 15% (not shown in creature window)."
+		"description" : "{green|Gilded Homunculus}\r\n\r\nHomunculi are more like animals than people. They are produced in a complex alchemical reaction and are small, disproportionate, yet strong caricatures of the proper human beings. They are usually tasked with works that need considerable strength, human-level agility and intelligence of a dog. Valuable asset on the battlefield since they not only regenerate wounds at impressive rate, the presence of Gilded Homunculi slightly amplifies power of damaging spells.\r\n\r\n{gold|Special Ability : Regeneration. Damage spells power increasing}\r\nHomunculus Regeneration enables the top creature of the stack to regain 10 health each combat round. Additionally, the presence in the hero's army strengthens the power of damaging spells by 15% (not shown in creature window)."
 	},
 
 	"fireNewt" : {
@@ -20,11 +20,11 @@
 	},
 
 	"salamander" : {
-		"description" : "{green|Shiny Salamander}\r\n\r\nSalamander is a name applied to a wide range of non-elemental creatures originating from the Elemental Plane of Fire. Due to thei elemental affinity they cannot be affected by fire spells. Thanks to that, many alchemists emloy them to tend to furnaces or other works involving sustained exposition to fire or heat.\r\n\r\n{gold|Special Ability : Immune to Fire}\r\nAlthough Fire Newts are immune to fire magic, they are not unaffected by fire-based creature attacks. For example Magogs' fireball attack or Dragons' breath attacks are not considered to be magical and therefore they do harm Salamanders."
+		"description" : "{green|Shiny Salamander}\r\n\r\nSalamander is a name applied to a wide range of non-elemental creatures originating from the Elemental Plane of Fire. Due to thei elemental affinity they cannot be affected by fire spells. Thanks to that, many alchemists emloy them to tend to furnaces or other works involving sustained exposition to fire or heat.\r\n\r\n{gold|Special Ability : Immune to Fire}\r\nAlthough Salamanders are immune to fire magic, they are not unaffected by fire-based creature attacks. For example Magogs' fireball attack or Dragons' breath attacks are not considered to be magical and therefore they do harm Salamanders."
 	},
 
 	"arquebusier" : {
-		"description" : "{green|Aquebusier}\r\n\r\nArquebusiers and Musketeers, armed with dangerous novelty weapons, are feared by their enemies during battles. While the muskets fueled with explosive powder are subject to range penalties, their projectiles are devastating even to well armored targets.\r\n\r\n{gold|Special Ability : Shooter. Ignore Defense 15%}\r\nAquebusier's shoot reduces enemy's defense by 15%."
+		"description" : "{green|Arquebusier}\r\n\r\nArquebusiers and Musketeers, armed with dangerous novelty weapons, are feared by their enemies during battles. While the muskets fueled with explosive powder are subject to range penalties, their projectiles are devastating even to well armored targets.\r\n\r\n{gold|Special Ability : Shooter. Ignore Defense 15%}\r\nAquebusier's shoot reduces enemy's defense by 15%."
 	},
 
 	"musketeer" : {
@@ -60,11 +60,11 @@
 	},
 	
 	"tangleVine" : {
-		"description" : "{green|Tangle Vine}\r\n\r\nTraveling through various lands, one might sometimes encounter trembling ground from which mysterious vines emerge. These enigmatic plants can paralyze any creature, binding it firmly to the ground. They have no dwellings and cannot be recruited into an army. Although they are immune to mind spells, Mandrake's magic can make them loyal servants in battle skirmishes.\r\n\r\n{gold|Special Ability : Teleporting. No morale. Mind immunity. Casts Bind after attack}\r\nVines are unaffected by morale, meaning that their morale rating is always zero. Additionally they have 100% chance to cast Bind after attack (like Denroids)." 	
+		"description" : "{green|Tangle Vine}\r\n\r\nTraveling through various lands, one might sometimes encounter trembling ground from which mysterious vines emerge. These enigmatic plants can paralyze any creature, binding it firmly to the ground. They have no dwellings and cannot be recruited into an army. Although they are immune to mind spells, Mandrakes' magic can make them loyal servants in battle skirmishes.\r\n\r\n{gold|Special Ability : Teleporting. No morale. Mind immunity. Casts Bind after attack}\r\nVines are unaffected by morale, meaning that their morale rating is always zero. Additionally they have 100% chance to cast Bind after attack (like Denroids)." 	
 	},
 	
 	"strangleVine" : {
-		"description" : "{green|Strangle Vine}\r\n\r\nTraveling through various lands, one might sometimes encounter trembling ground from which mysterious vines emerge. These enigmatic plants can paralyze any creature, binding it firmly to the ground. They have no dwellings and cannot be recruited into an army. Although they are immune to mind spells, Mandrake's magic can make them loyal servants in battle skirmishes.\r\n\r\n{gold|Special Ability : Teleporting. No morale. Mind immunity. Casts Bind after attack}\r\nVines are unaffected by morale, meaning that their morale rating is always zero. Additionally they have 100% chance to cast Bind after attack (like Denroids)." 
+		"description" : "{green|Strangle Vine}\r\n\r\nTraveling through various lands, one might sometimes encounter trembling ground from which mysterious vines emerge. These enigmatic plants can paralyze any creature, binding it firmly to the ground. They have no dwellings and cannot be recruited into an army. Although they are immune to mind spells, Mandrakes' magic can make them loyal servants in battle skirmishes.\r\n\r\n{gold|Special Ability : Teleporting. No morale. Mind immunity. Casts Bind after attack}\r\nVines are unaffected by morale, meaning that their morale rating is always zero. Additionally they have 100% chance to cast Bind after attack (like Denroids)." 
 	},
 	
 	"apparition" : {
@@ -73,7 +73,7 @@
 
 	"cameraObscuraCreature":
 	{
-		"description" : "{green|Camera Obscura}\r\n\r\nThis camera was planed as second war machine available in Courtyard. This mysterious machine can cast spells 5 times per battle. Camera can cast Age spell on enemy units (duration - 3 turns) or can revive friedly dead stacks as Apparitions (mechanism similar to Pit Lord's deamon summoning). Now you have two options to have this machine in your army.\r\n- sometimes it can be found in random generated maps as 'artifact'.\r\n- Heroine Migdigravia starts with one Camerae that can be transferred to other hero."
+		"description" : "{green|Camera Obscura}\r\n\r\nThis camera was planed as second war machine available in Courtyard. This mysterious machine can cast spells 5 times per battle. Camera can cast Age spell on enemy units (duration - 3 turns) or can revive friedly dead stacks as Apparitions (mechanism similar to Pit Lord's deamon summoning). Now you have two options to have this machine in your army.\r\n- sometimes it can be found in random generated maps as 'artifact'.\r\n- Heroine Migdigravia starts with one Camera that can be transferred to other hero."
 
 	},
 

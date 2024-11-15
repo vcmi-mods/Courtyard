@@ -39,17 +39,31 @@
 		"speed" : 5,
 		"abilities" :
 		{	
+			"agingSpellpower" : 
+			{
+				"type" : "CREATURE_ENCHANT_POWER",
+				"subtype" : "spell.ageCamera",
+				"val" : 3
+			},			
 			"ageCasting" : 
 			{
 				"type" : "SPELLCASTER",
 				"subtype": "spell.ageCamera",
-				"addInfo": 100
+				"val": 3,
+				"addInfo" : 100
 			},	
+			"summonSpellpower" : 
+			{
+				"type" : "SPECIFIC_SPELL_POWER",
+				"subtype" : "spell.summonApparition",
+				"val" : 100
+			},
 			"summonCasting" : 
 			{
 				"type" : "SPELLCASTER",
 				"subtype": "spell.summonApparition",
-				"addInfo": 100
+				"val": 3,
+				"addInfo" : 100
 			},			
 			"casts" : 
 			{

@@ -27,7 +27,8 @@
 			"affect":[{ "defName":"courtyard/spells/DeathGrasp/DeathGrasp.def", "verticalPosition":"bottom"}]
 		},
  
-		"flags" : { "offensive": true, "damage": true, "negative" : true },
+		"flags" : { "damage": true, "negative" : true },
+
 		"graphics":
 		{
 			"iconBook": "courtyard/spells/DeathGrasp/DGrasp_book1",

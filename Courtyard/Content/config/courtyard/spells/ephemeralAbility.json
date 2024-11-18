@@ -24,7 +24,7 @@
 			"affect":[{ "defName":"courtyard/spells/Immolation/Immolation.def", "verticalPosition":"bottom"}]
 		},
  
-		"flags" : { "offensive": true, "damage": true, "negative" : true, "special" : true },
+		"flags" : { "damage": true, "negative" : true, "special" : true },
 		"graphics":
 		{
 			"iconBook": "courtyard/spells/Immolation/Immolation_book1",

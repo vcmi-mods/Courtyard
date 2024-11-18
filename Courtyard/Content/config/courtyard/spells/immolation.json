@@ -22,7 +22,7 @@
 			"affect":[{ "defName":"courtyard/spells/Immolation/Immolation.def", "verticalPosition":"bottom"}]
 		},
  
-		"flags" : { "offensive": true, "damage": true, "negative" : true },
+		"flags" : { "damage": true, "negative" : true },
 		"graphics":
 		{
 			"iconBook": "courtyard/spells/Immolation/Immolation_book1",
@@ -51,7 +51,7 @@
 			"none":
 			{
 				"description": "{Immolation}\n\nSets enemy unit aflame, dealing damage to it at the beginning of each {round}.",
-				"power": 0.1,
+				//"power": 0.1,
 	 
 				"battleEffects" : {
 					"curse" : {"type":"core:timed", "cumulative": false, "bonus":  {
@@ -75,7 +75,7 @@
 			},
 			"basic":
 			{
-				"power": 0.2,
+				//"power": 0.2,
 				"description": "{Basic Immolation}\n\nSets enemy unit aflame, dealing damage to it at the beginning of each {round}.",
 				"battleEffects" : {
 					"curse" : {"type":"core:timed", "cumulative": false, "bonus":  {
@@ -98,7 +98,7 @@
 				}
 			},
 			"advanced":
-			{	"power": 0.25,
+			{	//"power": 0.25,
 				"description": "{Advanced Immolation}\n\nSets enemy unit aflame, dealing damage to it at the beginning of each {round}.",
 				"battleEffects" : {
 					"curse" : {"type":"core:timed", "cumulative": false, "bonus":  {
@@ -121,7 +121,7 @@
 				}
 			},
 			"expert":
-			{	"power": 0.5,
+			{	//"power": 0.5,
 				"description": "{Expert Immolation}\n\nSets enemy unit aflame, dealing damage to it at the beginning of each {round}.",
 				"battleEffects" : {
 					"curse" : {"type":"core:timed", "cumulative": false, "bonus":  {
@@ -172,7 +172,7 @@
 			"affect":[{ "defName":"courtyard/spells/Immolation/Immolation.def", "verticalPosition":"bottom"}]
 		},
  
-		"flags" : { "offensive": true, "damage": true, "negative" : true, "special" : true },
+		"flags" : { "damage": true, "negative" : true, "special" : true },
 
 		"graphics":
 		{

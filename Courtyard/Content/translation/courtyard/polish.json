@@ -297,5 +297,14 @@
     "spell.courtyard.weaponPoisonPotion.description.basic": "{Zatruty Eliksir - poziom podstawowy}\r\n\r\nDaje jednostce szansę na zatrucie zaatakowanego wroga (15%).",
     "spell.courtyard.weaponPoisonPotion.description.expert": "{Zatruty Eliksir - poziom mistrzowski}\r\n\r\nDaje jednostce szansę na zatrucie zaatakowanego wroga (30%).",
     "spell.courtyard.weaponPoisonPotion.description.none": "{Zatruty Eliksir}\r\n\r\nDaje jednostce szansę na zatrucie zaatakowanego wroga (10%)..",
-    "spell.courtyard.weaponPoisonPotion.name": "Zatruty Eliksir"
+    "spell.courtyard.weaponPoisonPotion.name": "Zatruty Eliksir",
+	"artifact.courtyard.cameraObscura.description" : "{Kamera Obskura}\r\n\r\nKamera Obskura pozwala rzucić Postarzanie na jednostki wroga.",
+	"artifact.courtyard.cameraObscura.event" : "Natrafiasz na dziwaczną i niepokojącą scenę: stos wyschniętych zwłok w modnych strojach, upozowanych jak do portretu rodzinnego. Malarza nigdzie nie widać, a zamiast płótna na sztalugach stoi małe drewniane pudełko z soczewką. Decydujesz się wziąć urządzenie i iść szybko, czując na sobie wzrok zmarłych.",
+	"artifact.courtyard.cameraObscura.name" : "Kamera Obskura",
+	"artifact.courtyard.potionCart.description" : "{Wóz z eliksirami}\r\n\r\nWóz z miksturami zaopatruje twoją armię w korzystne eliksiry.",
+	"artifact.courtyard.potionCart.event" : "Zatrzymujesz się przy małej chatce zamieszkanej przez starszą kobietę. Zaprasza cię do środka i mówi, że przypominasz jej wnuka, podczas gdy ona karmi cię rosołem i kluskami. Kiedy w końcu ją przekonujesz, że nie jesteś głodny i musisz iść, nie wypuszcza Cię, dopóki nie obiecasz, że przez miesiąc będziesz przynosił z jej szafy balsamy lecznicze i domowe środki, bo jest niebezpiecznie.",
+	"artifact.courtyard.potionCart.name" : "Wóz z eliksirami",
+	"building.courtyard.courtyard.special1.description" : "W Sklepie Alchemicznym można nabyć artefakty",
+	"building.courtyard.courtyard.special1.name" : "Sklep Alchemiczny",
+"building.courtyard.courtyard.special2.rewards.0" : "{Magiczna Fontanna}\r\n\r\nprzywraca wszystkie punkty many odwiedzanemu bohaterowi na początku następnego dnia."
 }

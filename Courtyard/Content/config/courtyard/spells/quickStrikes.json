@@ -1,6 +1,4 @@
 {
-	
-	
 	"quickStrikes":
 	{
 		"type": "combat", 
@@ -57,13 +55,7 @@
 				"targetModifier":
 				{
 					"smart": true
-				}
-			},
-			"none":
-			{
-				"description": "{Flurry of Strikes}\n\nGrants unit additional attack and Preemptive Retaliation, but decreases unit's damage by 30%.",
-	 
-	 
+				},
 				"effects":
 				{
 					"decreaseeDamage" : {
@@ -84,7 +76,11 @@
 					{
 						"type" : "FIRST_STRIKE", "duration": "N_TURNS"
 					}
-				}
+				}				
+			},
+			"none":
+			{
+				"description": "{Flurry of Strikes}\n\nGrants unit additional attack and Preemptive Retaliation, but decreases unit's damage by 30%."
 			},
 			"basic":
 			{
@@ -93,11 +89,7 @@
 				"effects":
 				{
 					"decreaseeDamage" : {
-						"val" : -20,
-						"type" : "CREATURE_DAMAGE",
-						"subtype" : "creatureDamageBoth",
-						"valueType": "PERCENT_TO_BASE",
-						"duration": "N_TURNS"
+						"val" : -20
 						}
 					}
 			},
@@ -108,11 +100,7 @@
 				"effects":
 				{
 					"decreaseeDamage" : {
-						"val" : -10,
-						"type" : "CREATURE_DAMAGE",
-						"subtype" : "creatureDamageBoth",
-						"valueType": "PERCENT_TO_BASE",
-						"duration": "N_TURNS"
+						"val" : -10
 					}
 				}
 			},
@@ -123,15 +111,10 @@
 				"effects":
 				{
 					"decreaseeDamage" : {
-						"val" : -10,
-						"type" : "CREATURE_DAMAGE",
-						"subtype" : "creatureDamageBoth",
-						"valueType": "PERCENT_TO_BASE",
-						"duration": "N_TURNS"
+						"val" : -10
 					}
 				}
 			}
 		}
 	}
- 
 }
